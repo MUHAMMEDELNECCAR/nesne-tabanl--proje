@@ -2,4 +2,4 @@
 # 220541612 
 # Muhammed Elneccar 
 # Yazılım Mühendisliği 2.Sınıf 
-#B Şubesi
+# B Şubesi
